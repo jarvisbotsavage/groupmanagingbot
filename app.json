@@ -1,6 +1,6 @@
 
 {
-  "name": "GroupManager Bot",
+  "name": "Group managing bot",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  "repository": "https://github.com/jarvisbotsavage/groupmanagingbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -25,7 +25,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "xditya"
+      "value": "Your_username"
     },
   
     "URL": {
